@@ -1,5 +1,5 @@
 ---
-title: 'react書くの楽しい'
+title: 'next.jsデプロイ出来たよ'
 date: '2020-01-02'
 ---
 
